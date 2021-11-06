@@ -14,7 +14,13 @@ public class DinnerParty extends Party {
     public int getDinnerChoice() {
         return dinnerChoice;
     }
+
+    @Override
+    //display invitation
+    public void displayPartyInvitation() {
+        System.out.println("Invitation of Dinner");
+    }
     
-    
+
 
 }
