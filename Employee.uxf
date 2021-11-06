@@ -1,0 +1,9 @@
+<diagram program="umletino" version="14.4.0-SNAPSHOT"><zoom_level>10</zoom_level><element><id>UMLClass</id><coordinates><x>70</x><y>30</y><w>210</w><h>190</h></coordinates><panel_attributes>Employee
+--
+-id: int
+-salary : double
+--
++getId() : int
++getSalary(): doublle
++setId(int idNum) : void
++setSalary(double sal): void</panel_attributes><additional_attributes></additional_attributes></element></diagram>
