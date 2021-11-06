@@ -30,6 +30,9 @@ public class PartyTest {
 
         dinnerParty.displayPartyInvitation();
 
+        PartyWithConstructor partyWithConstructor = new PartyWithConstructor();  
+        
+
 
 
     } 
